@@ -11,7 +11,7 @@ import re
 print("Checkpoint 1: Loaded all libraries.")
 
 # Handling the authentication
-apiKey = 'AIzaSyC1p3hR3ej6J3UD9cKQwkkJiDi_PzqY2G0'
+apiKey = '##'
 apiServiceName = "youtube"
 apiVersion = "v3"
 youtube = build(apiServiceName, apiVersion, developerKey=apiKey)
